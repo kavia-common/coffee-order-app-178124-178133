@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/coffee-order-app-178124-178133/coffee_app_frontend/.dart_tool/flutter_build/3f857338233c168f804752854e3c03b7/native_assets.json: 
